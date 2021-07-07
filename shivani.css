@@ -1,0 +1,23 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    background-size: cover;
+    box-sizing: border-box;
+    background-image: url("https://source.unsplash.com/daily");
+}
+body{
+    
+}
+h1{
+    text-align: center;
+    height:400px;
+    color: whitesmoke;
+    text-shadow: 2px 2px coral;
+}
+.container{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    
+
+}
